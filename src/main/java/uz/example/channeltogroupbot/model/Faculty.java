@@ -14,7 +14,7 @@ import java.util.Optional;
  */
 public enum Faculty {
 
-
+// changed
     MATEMATIKA(1, "Matematika", "matematika"),
     AMALIY_MATEMATIKA(2, "Amaliy matematika va intelektual texnologiyalar", "amit"),
     FIZIKA(3, "Fizika", "fizika"),
